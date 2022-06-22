@@ -1,4 +1,4 @@
-//CREATte a node class --> contains val,next
+//Create a node class --> contains val,next
 //create a linkedlist class -> contains head, tail , length of the list
 
 class Node
